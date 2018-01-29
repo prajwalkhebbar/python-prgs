@@ -1,0 +1,1 @@
+print "The git clone is working fine"
